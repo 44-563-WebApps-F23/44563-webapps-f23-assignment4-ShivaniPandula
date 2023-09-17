@@ -1,0 +1,53 @@
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: black;
+}
+
+
+.direction {
+    font-family: Times New Roman, serif;
+    font-size: 16px;
+    color: black;
+    background-color: lightgray;
+    transition: background-color 0.3s, color 0.3s;
+    
+}
+
+.direction:hover {
+    background-color:   lightblue;
+    color: white;
+}
+
+.nora {
+    color: blue;
+}
+
+.porter {
+    color: green;
+}
+
+.helmer {
+    color: red;
+}
+
+.rank {
+    color: rgb(170, 0, 255);
+}
+
+.krogstad {
+    color: rgb(255, 0, 200);
+}
+
+.linde {
+    color: rgb(238, 255, 0);
+}
+
+.anne {
+    color: rgb(0, 255, 136);
+}
+
+.housemaid {
+    color: rgb(39, 5, 56);
+}
+
