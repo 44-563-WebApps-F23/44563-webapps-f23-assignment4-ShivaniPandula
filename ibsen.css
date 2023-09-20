@@ -1,3 +1,9 @@
+.name{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: rgb(231, 79, 79);   
+}
+
 .speech {
     font-family: Arial, sans-serif;
     font-size: 14px;
@@ -51,25 +57,41 @@
     color: rgb(39, 5, 56);
 }
 
-.cast-table {
+.my-table {
     width: 80%;
     margin: 20px auto;
     border-collapse: collapse;
-    border: 1px solid #ddd;
+    border: 1px solid #b40e0e;
 }
 
-.cast-table th, .cast-table td {
-    border: 1px solid #ddd;
+.my-table th, .my-table td {
+    border: 1px solid #49eadd;
     padding: 8px;
     text-align: center;
 }
 
-.cast-table th {
+.my-table th {
     background-color: #f2f2f2;
 }
 
-.cast-table tbody tr:nth-child(odd) {
+.my-table tbody tr:nth-child(odd) {
     background-color: #f9f9f9;
+}
+.nora:hover {
+    text-shadow: 2px 2px 4px #f0b8f0; /* Shadow with an interesting color and blur */
+    border: 2px dashed #296060; /* Interesting border */
+}
+.porter:hover {
+    text-shadow: 2px 2px 4px #f0b8f0; /* Shadow with an interesting color and blur */
+    border: 2px dashed #296060; /* Interesting border */
+}
+.helmer:hover {
+    text-shadow: 2px 2px 4px #f0b8f0; /* Shadow with an interesting color and blur */
+    border: 2px dashed #296060; /* Interesting border */
+}
+.name:hover {
+    text-shadow: 2px 2px 4px #f0b8f0; /* Shadow with an interesting color and blur */
+    border: 2px dashed #296060; /* Interesting border */
 }
 
 
