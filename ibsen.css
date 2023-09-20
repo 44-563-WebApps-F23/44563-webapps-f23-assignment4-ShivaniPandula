@@ -61,7 +61,7 @@
     width: 80%;
     margin: 20px auto;
     border-collapse: collapse;
-    border: 1px solid #b40e0e;
+    border: 1px solid #e33f3f;
 }
 
 .my-table th, .my-table td {
@@ -71,15 +71,19 @@
 }
 
 .my-table th {
-    background-color: #f2f2f2;
+    background-color: #7d5ff4;
+}
+
+.my-table tbody tr:nth-child(even) {
+    background-color: #f8bfe6;
 }
 
 .my-table tbody tr:nth-child(odd) {
-    background-color: #f9f9f9;
+    background-color: #c1a9e5;
 }
 .nora:hover {
     text-shadow: 2px 2px 4px #f0b8f0; /* Shadow with an interesting color and blur */
-    border: 2px dashed #296060; /* Interesting border */
+    border: 2px dashed #8eeded; /* Interesting border */
 }
 .porter:hover {
     text-shadow: 2px 2px 4px #f0b8f0; /* Shadow with an interesting color and blur */
