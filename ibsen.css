@@ -98,11 +98,11 @@
     border: 2px dashed #4b082c; /* Interesting border */
 }
 
-.navbar-horizontal{
+  .navbar-horizontal{
     padding: 15px;
     float:left;
-    background-color:rgb(37, 11, 207);
-    color:rgb(55, 17, 143);
+    background-color:black;
+    color:black;
     display:block;
     
   }
@@ -132,4 +132,3 @@
     margin-right: 100px;
    margin-left: 80px;
   }
-
