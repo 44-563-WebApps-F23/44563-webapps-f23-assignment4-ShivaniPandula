@@ -98,5 +98,38 @@
     border: 2px dashed #4b082c; /* Interesting border */
 }
 
-
+.navbar-horizontal{
+    padding: 15px;
+    float:left;
+    background-color:rgb(37, 11, 207);
+    color:rgb(55, 17, 143);
+    display:block;
+    
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d62929;
+  }
+  
+  li {
+    float: left;
+  }
+  .image1{
+    width: 150px;
+    height: 200px;
+    margin-top: 30px;
+  margin-bottom: 11px;
+    margin-right: 100px;
+   margin-left: 80px;
+  }
 
