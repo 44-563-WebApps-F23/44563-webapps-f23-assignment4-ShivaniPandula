@@ -82,20 +82,20 @@
     background-color: #c1a9e5;
 }
 .nora:hover {
-    text-shadow: 2px 2px 4px #f0b8f0; /* Shadow with an interesting color and blur */
-    border: 2px dashed #8eeded; /* Interesting border */
+    text-shadow: 2px 2px 4px #7b14d6; /* Shadow with an interesting color and blur */
+    border: 2px dashed #e31235; /* Interesting border */
 }
 .porter:hover {
-    text-shadow: 2px 2px 4px #f0b8f0; /* Shadow with an interesting color and blur */
-    border: 2px dashed #296060; /* Interesting border */
+    text-shadow: 2px 2px 4px #6cc004; /* Shadow with an interesting color and blur */
+    border: 2px dashed #6d054a; /* Interesting border */
 }
 .helmer:hover {
-    text-shadow: 2px 2px 4px #f0b8f0; /* Shadow with an interesting color and blur */
-    border: 2px dashed #296060; /* Interesting border */
+    text-shadow: 2px 2px 4px #85d30f; /* Shadow with an interesting color and blur */
+    border: 2px dashed #045b5b; /* Interesting border */
 }
-.name:hover {
-    text-shadow: 2px 2px 4px #f0b8f0; /* Shadow with an interesting color and blur */
-    border: 2px dashed #296060; /* Interesting border */
+.linde:hover {
+    text-shadow: 2px 2px 4px #034c7d; /* Shadow with an interesting color and blur */
+    border: 2px dashed #4b082c; /* Interesting border */
 }
 
 
